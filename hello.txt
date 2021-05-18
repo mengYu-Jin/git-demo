@@ -1,3 +1,7 @@
 123
 hello git!
+<<<<<<< HEAD
 second update!
+=======
+hot-fix reset first commit
+>>>>>>> hot-fix
